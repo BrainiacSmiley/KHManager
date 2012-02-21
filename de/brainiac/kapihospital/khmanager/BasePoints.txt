@@ -1,0 +1,115 @@
+Levelbonus		
+                             BP
+Brecheritis                  3,000
+Nasenflügelakne              3,000
+Gebrochener Arm             11,000
+Schürfwunde                  6,820
+Schädelbrummen              27,610
+Gebrochenes Bein            27,600
+Zwergfellentzündung         28,600
+Segelohrentzündung          21,700
+Fränkisches Wurzelfieber    18,150
+Wechselbalgjahre            21,700
+Galliensteine               22,700
+Luftpocken                  26,500
+Aufgerollte Fußnägel        31,635
+Knorpelverknautschung       31,635
+Eierkopf                    37,000
+Faulenzia                   29,510
+Rummelplatzkrankheit        33,650
+Herzklappenklappern         34,650
+Herzschmerzgeschnulze       38,875
+Furunkelfunkeln             54,550
+Zungenverknotung            40,000
+Nierenkiesel                50,480
+Wasserallergie              40,800
+Stinkekäsefuß               46,600
+Nagelbettwackeln            38,640
+Koffeinhypersensibilität    28,180
+Schlaflosigkeit             28,150
+Milchbart                   75,100
+Brett vorm Kopf             59,450
+Arbeitsallergie             21,850
+Marserianerimpfung          37,500
+Flederhöhlenkopf            47,000
+Dicker Kopf                 56,500
+Haarbruch                   84,000
+Rot-Grün-Fieber             78,090
+Silberblick                 39,500
+Frosch im Hals              58,500
+Sonnenbankbrand            354,600
+Zweckenbefall               99,360
+Drehwurm                    37,700
+Schnarcheritis              38,400
+Dauermüdigkeit              29,200
+Darmvergilbung              82,000
+viereckige Augen            66,500
+Heimweh                     66,500
+Barthaarverzwirbelung       56,650
+Bad-Hair-Day-Syndrom        90,000
+Sauklaue                    67,500
+Kussmundatem                84,100
+Frostbeulen                 63,300
+Schlitzohr                  54,000
+Rapunzelsyndrom             41,700
+Sturmfrisur                145,550
+Innenohr voller HAuS       639,000
+Rosengürtel                244,000
+Pferdefuß                   70,500
+Gehirndurchzug              61,500
+Dickdarmdiätsyndrom        106,300
+Spülwurm                    66,500
+Knoblauchfahne              83,400
+Fleuchhusten                42,860
+Dauerschnupfen              73,143
+Zahnschmerzen		
+Hummeln im Hintern		
+Stumpfe Zähne               74,400
+Grippeimpfung		
+Brüllfroschrülpsen		
+Venenverwesung		
+Feuermal		
+Ohrschneckenauswanderung		
+Tomaten auf den Augen		
+Ohr-Schmalzlocke		
+Currywurstjieper		
+Lampenfieber		
+Hitzewallung		
+Würfelhusten		
+Bierbauch		
+Kopflausbuben		
+Mumpitzimpfung		
+Tränensäcke		
+Glatzitis		
+Kampfadern		
+Fingernagelbruch		
+Stinkebefall		
+Holzkopf		
+Schleimbeutelüberproduktion		
+Pobackenflattern		
+Feuchte Aussprache		
+Zwei linke Hände		
+Koffeinmangel		
+Fußfliegenpilz		
+Zahnstein		
+Rotes Kniekehlchen		
+Lippenblütlerwarze		
+Flatterndes Nabelpiercing		
+Rundrücken		
+Peitschenfloh		
+Gurgelhupf		
+Leberkäserkältung		
+Seekrankheit		
+Kiefernzapfenverrenkung		
+Salzfässchen		
+Milzbierüberdruss		
+Schieldrüsensyndrom		
+Katzenjammern		
+Muskelkätzchen		
+Akkuschrauberpunkturlöcher		
+Lungenseifenblasen		
+Solarplexusdämmerung		
+Tomatenmarkgefüllte Knochen		
+Einhornhautentzündung		
+Zwirbeldrüsenverzwirbelung		
+gestörtes Wurzelchakra		
